@@ -1,3 +1,9 @@
 nav a{
-    margin-right: 20px;
+    margin-right: 40px;
+}
+nav a.active{
+    color: peru;
+    background-color: aquamarine;
+    padding: 8px;
+    border-radius: 10px;
 }
